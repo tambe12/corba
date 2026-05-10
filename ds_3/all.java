@@ -177,4 +177,4 @@ public class Client{
 // now again inside the src, run command : tnameserv -ORBInitialPort 1050
 // then run server and client as :
 // java Server -ORBInitialPort 1050
-// java client --ORBInitialPort 1-50
+// java client --ORBInitialPort 1-50 (corba_/bin$ java corba_.Client -ORBInitialPort 1050)(packagename.filename(no .java))
